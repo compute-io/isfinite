@@ -1,6 +1,6 @@
 {
   "name": "compute-isfinite",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Computes for each array element whether an element is a finite number.",
   "author": {
     "name": "Athan Reines",
